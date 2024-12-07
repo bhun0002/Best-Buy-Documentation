@@ -90,7 +90,7 @@ docker login
     docker tag makeline-service-best-buy:latest <your-dockerhub-username>/makeline-service-best-buy:latest 
     docker tag product-service-best-buy:latest <your-dockerhub-username>/product-service-best-buy:latest 
     docker tag store-front-best-buy:latest <your-dockerhub-username>/store-front-best-buy:latest
-    ocker tag virtual-worker-best-buy:latest <your-dockerhub-username>/virtual-worker-best-buy:latest 
+    docker tag virtual-worker-best-buy:latest <your-dockerhub-username>/virtual-worker-best-buy:latest 
     docker tag order-service-best-buy:latest <your-dockerhub-username>/order-service-best-buy:latest 
     docker tag store-admin-best-buy:latest <your-dockerhub-username>/store-admin-best-buy:latest 
     docker tag virtual-customer-best-buy:latest <your-dockerhub-username>/virtual-customer-best-buy:latest 
