@@ -510,6 +510,7 @@ Moreover, we deployed **Virtual Customer** and **Virtual Admin** modules to auto
 - **Virtual Customer**: Tasks are defined to place up to 200 orders per hour automatically.
 - **Virtual Admin**: Tasks involve managing and processing up to 50 orders per hour, ensuring efficient handling of high-order volumes.
 - **Automated System**: Deploying this system enables the automation of order placement and completion processes, ensuring efficiency and scalability.
+  ![alt text](assets/image-16.png)
 - **Order Processing**: Orders are processed using Azure Service Bus, which facilitates reliable communication and message queuing. When an order is placed, it is added to the Service Bus queue, ensuring that the order is handled efficiently and asynchronously by the designated processing services.
 ![alt text](assets/image-18.png)
 ![alt text](assets/image-20.png)
