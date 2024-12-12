@@ -523,4 +523,4 @@ Moreover, we deployed **Virtual Customer** and **Virtual Admin** modules to auto
 
 ### Demo Video
 
-A demo video showcasing the deployment, functionality, and features of the application is available [here](https://example.com/demo).
+A demo video showcasing the deployment, functionality, and features of the application is available [here](https://youtu.be/74-ZBnQl-2s).
