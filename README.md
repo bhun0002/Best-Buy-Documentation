@@ -116,7 +116,19 @@ After completing the lab, you can clean up your local Docker environment to free
 docker system prune -a
 ```
 
+### Table of Docker Images
+A table listing all Docker images you created, including their names and links to their Docker Hub repositories.  
 
+| Service  | Docker Hub Image |
+| ---  | --- |
+| `store-front`  | `bhun0002/store-front-best-buy:latest` |
+| `store-admin`  | `bhun0002/store-admin-best-buy:latest` |
+| `order-service` |  `bhun0002/order-service-best-buy:latest` |
+| `product-service`  | `bhun0002/product-service-best-buy:latest` |
+| `makeline-service`  | `bhun0002/makeline-service-best-buy:latest` |
+| `ai-service` | `bhun0002/ai-service-best-buy:latest` |
+| `virtual-customer`  | `bhun0002/virtual-customer-best-buy:latest` |
+| `virtual-worker`  | `bhun0002/virtual-worker-best-buy:latest` |
 
 ### Step 1: Clone the Repositories
 
