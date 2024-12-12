@@ -119,16 +119,16 @@ docker system prune -a
 ### Table of Docker Images
 A table listing all Docker images you created, including their names and links to their Docker Hub repositories.  
 
-| Service  | Docker Hub Image |
-| ---  | --- |
-| `store-front`  | `bhun0002/store-front-best-buy:latest` |
-| `store-admin`  | `bhun0002/store-admin-best-buy:latest` |
-| `order-service` |  `bhun0002/order-service-best-buy:latest` |
-| `product-service`  | `bhun0002/product-service-best-buy:latest` |
-| `makeline-service`  | `bhun0002/makeline-service-best-buy:latest` |
-| `ai-service` | `bhun0002/ai-service-best-buy:latest` |
-| `virtual-customer`  | `bhun0002/virtual-customer-best-buy:latest` |
-| `virtual-worker`  | `bhun0002/virtual-worker-best-buy:latest` |
+| Service  | Docker Hub Image | Docker Hub Link |
+| ---  | --- | --- |
+| `store-front`  | `bhun0002/store-front-best-buy:latest` | [store-front-best-buy](https://hub.docker.com/layers/bhun0002/store-front-best-buy/latest/images/sha256-e009a04b0480af9dbf6b6fe23ea91cfa0985be771ac8774a1c56c73ff0270526?context=explore) |
+| `store-admin`  | `bhun0002/store-admin-best-buy:latest` | [store-admin-best-buy](https://hub.docker.com/layers/bhun0002/store-admin-best-buy/latest/images/sha256-93b0007c86e326587bdba3357d435046b66a7a546cc29d153159003f66e50c38?context=explore) |
+| `order-service` |  `bhun0002/order-service-best-buy:latest` | [order-service-best-buy](https://hub.docker.com/layers/bhun0002/order-service-best-buy/latest/images/sha256-3750d8eca583b5f405b7e2545abec9b1eef6cef4c9fbcf8c92798eb219491d3d?context=explore) |
+| `product-service`  | `bhun0002/product-service-best-buy:latest` | [product-service-best-buy](https://hub.docker.com/layers/bhun0002/product-service-best-buy/latest/images/sha256-8e293b00aae2e93e5951a11b3c9aae054eb3e2ea4036653bf81744d5c195894b?context=explore) |
+| `makeline-service`  | `bhun0002/makeline-service-best-buy:latest` |[makeline-service-best-buy](https://hub.docker.com/layers/bhun0002/makeline-service-best-buy/latest/images/sha256-00b5eb9cd05242e2d2ca9356d1228c0d36b57d1c1e9c5b813a1ea49ed5a67d70?context=explore) |
+| `ai-service` | `bhun0002/ai-service-best-buy:latest` | [ai-service-best-buy](https://hub.docker.com/layers/bhun0002/ai-service/latest/images/sha256-c40629b7de0cf76e091f5484d251ce8fbbac1bf006a656ed65fc8434d01ac020?context=explore) |
+| `virtual-customer`  | `bhun0002/virtual-customer-best-buy:latest` | [virtual-customer-best-buy](https://hub.docker.com/layers/bhun0002/virtual-customer-best-buy/latest/images/sha256-050316f1e224bab470b195a5b33145487c1b4f5f392ec3fd8e22c6e60d2ce5a3?context=explore) |
+| `virtual-worker`  | `bhun0002/virtual-worker-best-buy:latest` | [virtual-worker-best-buy](https://hub.docker.com/layers/bhun0002/virtual-worker-best-buy/latest/images/sha256-d22bfd68142d64491fac5c6fb8f1102d267f5d3de8eca58b4028d8b774900d6d?context=explore) |
 
 ### Step 1: Clone the Repositories
 
