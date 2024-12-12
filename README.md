@@ -12,7 +12,7 @@ This application is inspired by Azure Kubernetes Service (AKS) quickstart demo [
 
 The application has the following services: 
 
-![Logical Application Architecture Diagram](assets/Best-Buy-Architecture.png)
+![Logical Application Architecture Diagram](assets/Best-Buy-Architecture.jpg)
 
 The application has the following services: 
 
