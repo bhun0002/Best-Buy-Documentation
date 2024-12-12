@@ -325,7 +325,6 @@ This method deploys all services and configurations in a single step:
 - Deploy using separate YAML files
 This method allows you to deploy individual components and services step by step:
   ```bash
-  kubectl apply -f admin-tasks.yaml
   kubectl apply -f ai-service.yaml
   kubectl apply -f config-maps.yaml
   kubectl apply -f makeline-service.yaml
@@ -353,9 +352,20 @@ This method allows you to deploy individual components and services step by step
    ![alt text](assets/image.png)
 
 ### Step 6: Deploy Virtual Customer and Worker
-   ```bash
-   kubectl apply -f admin-tasks.yaml
-   ```
+
+- Deploy using the admin-tasks YAML file
+This method deploys all services and configurations in a single step:
+  ```bash
+  kubectl apply -f admin-tasks.yaml
+  ```
+- Deploy using separate YAML files
+This method allows you to deploy individual components and services step by step:
+  ```bash
+  kubectl apply -f virtual-customer.yaml
+  kubectl apply -f virtual-worker.yaml
+ 
+  ```
+
 - Monitor Virtual Customer:
    ```bash
    kubectl logs -f deployment/virtual-customer
