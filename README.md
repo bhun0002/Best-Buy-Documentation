@@ -461,7 +461,7 @@ Access the front-end of the application by entering the `External-IP` for the `s
   - **Azure Bus Service**: When an order is placed, it is processed through the Azure Service Bus, a managed message queue service. This ensures reliable and asynchronous communication between different components of the system. The orders are queued and can be monitored within the Service Bus queue for processing, providing seamless and efficient order management.
   ![alt text](assets/image-4.png)
 
-  -**Makeline Service**: It is a simple REST API written with the Gin framework that allows you to process orders from a Azure Service Bus queue and send them to a MongoDB database.
+  - **Makeline Service**: It is a simple REST API written with the Gin framework that allows you to process orders from a Azure Service Bus queue and send them to a MongoDB database.
 
 
 #### Accessing the Orders from MongoDB
