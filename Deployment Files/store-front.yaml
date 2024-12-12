@@ -1,4 +1,3 @@
-
 # Deployment for Store Front
 apiVersion: apps/v1
 kind: Deployment

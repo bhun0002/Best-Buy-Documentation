@@ -493,3 +493,8 @@ To validate the application’s back-end functionality, you can directly access 
    ![alt text](assets/image-15.png)
 
 This capability provides direct visibility into the order data, ensuring that the application functions as intended and allows for debugging or analytics purposes.
+
+
+### Demo Video
+
+A demo video showcasing the deployment, functionality, and features of the application is available [here](https://example.com/demo).
