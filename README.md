@@ -156,7 +156,7 @@ To begin, clone the [**Best-Buy (On Steroids)**](https://github.com/bhun0002/Bes
    - Click **Create** and select **Kubernetes cluster**
    - In the `Basics` tap fill in the following details:
      - **Subscription**: Select your subscription.
-     - **Resource group**: Choose `BestBuyRGRG`.
+     - **Resource group**: Choose `BestBuyRG`.
      - **Cluster preset configuration**: Choose `Dev/Test`.
      - **Kubernetes cluster name**: `BestBuyRGCluster`.
      - **Region**: Same as your resource group (e.g., `Canada`).
